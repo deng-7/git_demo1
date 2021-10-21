@@ -13,5 +13,6 @@ public class Main {
         System.out.println("hello 4");
         System.out.println("hello 5");
         System.out.println("hello 6");
+        System.out.println("idea");
     }
 }
